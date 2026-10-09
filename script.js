@@ -30,4 +30,8 @@ const traerFotos = async () => {
 }
 
 
-const 
+const traerTodo = () => {
+    traerDatos();
+    traerFotos();
+}
+    
